@@ -1,6 +1,6 @@
 # Basic-Java-Study
 
-상단의 `Issuse` 주제를 바탕으로 학습 내용을 블로그에 정리해 주세요. <br>
+상단의 `Issuses` 주제를 바탕으로 학습 내용을 블로그에 정리해 주세요. <br>
 게시판에 댓글로 정리하신 블로그 링크를 제출해 주시면 부족하지만 검토해 드립니다.
 
 > 본 스터디는 [백기선님의 live-study](https://github.com/whiteship/live-study)를 기반으로 하였습니다.
